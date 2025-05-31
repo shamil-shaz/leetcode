@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/shamil-shaz/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shamil-shaz/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/shamil-shaz/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Hash Table
 |  |
