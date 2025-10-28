@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shamil-shaz/leetcode/tree/master/0217-contains-duplicate) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/shamil-shaz/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shamil-shaz/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/shamil-shaz/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/shamil-shaz/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shamil-shaz/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shamil-shaz/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shamil-shaz/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shamil-shaz/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## String
+|  |
+| ------- |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/shamil-shaz/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
